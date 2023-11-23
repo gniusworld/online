@@ -1,1 +1,1 @@
-https://kidsop.blob.core.windows.net/zero/kidsop.zip
+"https://kidsop.blob.core.windows.net/zero/kidsop.zip"
